@@ -1,7 +1,7 @@
 {
-  "name": "lady",
-  "private": true,
+  "name": "ladysite",
   "version": "0.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ladysite": "file:",
     "vue": "^3.5.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
-    "vite": "^6.3.5"
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
   }
 }
