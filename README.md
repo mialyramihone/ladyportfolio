@@ -1,22 +1,30 @@
-# 🎨 Portfolio Personnel – Vue 3 + Vite
+# 🎨 Portfolio Personnel – HTML + CSS + JavaScript
 
-Bienvenue sur le dépôt de mon **portfolio personnel**, développé avec **Vue 3** et **Vite** pour une expérience rapide, fluide et moderne.
+Bienvenue sur le dépôt de mon **portfolio personnel**, développé avec **HTML**, **CSS** et **JavaScript pur** pour une structure légère, rapide et entièrement personnalisable.
 
 ## ✨ Objectif
 
 Ce projet met en avant :
 
-- 👤 **Mon profil** et mon parcours
-- 💼 **Mes projets** : développement web, design, applications, etc.
-- 📬 **Mes contacts** pour collaboration ou opportunités
+- 👤 **Mon profil** et mon parcours professionnel
+- 💼 **Mes projets** : sites web, interfaces, scripts JavaScript, etc.
+- 📬 **Mes contacts** pour toute collaboration ou opportunité
 
-> ⚙️ Conçu avec **Vue 3** en utilisant la syntaxe `<script setup>` pour une meilleure organisation du code.
+> ⚙️ Conçu sans framework, avec une structure propre en HTML, des styles CSS organisés, et des interactions dynamiques via JavaScript pur.
+
+## 🧰 Structure du projet
+
+- `index.html` – Page principale du portfolio
+- `styles/` – Contient les fichiers CSS pour la mise en page et le design
+- `scripts/` – Contient les fichiers JavaScript pour les interactions (menu, formulaire, etc.)
+- `assets/` – Images, icônes, polices, etc.
 
 ## 🔗 Ressources utiles
 
-- [📘 Docs Vue 3 - script setup](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)
-- [🧠 Guide Vue pour les outils IDE](https://vuejs.org/guide/scaling-up/tooling.html#ide-support)
+- [📘 Référence HTML MDN](https://developer.mozilla.org/fr/docs/Web/HTML)
+- [🎨 Référence CSS MDN](https://developer.mozilla.org/fr/docs/Web/CSS)
+- [⚙️ Référence JavaScript MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 ---
 
-💡 *Créé avec passion pour refléter mes compétences et ma créativité.*
+💡 *Créé avec passion pour refléter mes compétences, ma créativité et ma maîtrise des technologies de base du web.*
